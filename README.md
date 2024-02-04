@@ -30,7 +30,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    連絡先は次のとおりです [<a href="mailto:itsuki.tatsuya11@gmail.com">e-mail</a>]
+    連絡先は次のとおりです [<a href="mailto:itsuki.tatsuya11@gmail.com">Eメール</a>]
   </samp>
 </p>
 
