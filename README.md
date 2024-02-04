@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align='center'><img src="https://komarev.com/ghpvc/?username=itsukitatsuya11&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="itsukitatsuya11" />
+
 <!--
 **itsukitatsuya11/itsukitatsuya11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
